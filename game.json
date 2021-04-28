@@ -1,0 +1,467 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 99,
+    "major": 4,
+    "minor": 0,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": false,
+    "folderProject": true,
+    "orientation": "landscape",
+    "packageName": "com.example.gamename",
+    "projectUuid": "c4c35c1a-e2fe-4e07-8e53-6e173ae09086",
+    "scaleMode": "linear",
+    "sizeOnStartupMode": "adaptHeight",
+    "useExternalSourceFiles": false,
+    "version": "1.0.0",
+    "name": "historia1",
+    "author": "",
+    "windowWidth": 500,
+    "windowHeight": 300,
+    "latestCompilationDirectory": "D:\\SCORMS\\SID5140-PROD-DID462\\AnimacoesProntas\\historia1",
+    "maxFPS": 60,
+    "minFPS": 60,
+    "verticalSync": false,
+    "platformSpecificAssets": {},
+    "loadingScreen": {
+      "showGDevelopSplash": true
+    },
+    "extensionProperties": [],
+    "extensions": [
+      {
+        "name": "BuiltinObject"
+      },
+      {
+        "name": "BuiltinAudio"
+      },
+      {
+        "name": "BuiltinVariables"
+      },
+      {
+        "name": "BuiltinTime"
+      },
+      {
+        "name": "BuiltinMouse"
+      },
+      {
+        "name": "BuiltinKeyboard"
+      },
+      {
+        "name": "BuiltinJoystick"
+      },
+      {
+        "name": "BuiltinCamera"
+      },
+      {
+        "name": "BuiltinWindow"
+      },
+      {
+        "name": "BuiltinFile"
+      },
+      {
+        "name": "BuiltinNetwork"
+      },
+      {
+        "name": "BuiltinScene"
+      },
+      {
+        "name": "BuiltinAdvanced"
+      },
+      {
+        "name": "Sprite"
+      },
+      {
+        "name": "BuiltinCommonInstructions"
+      },
+      {
+        "name": "BuiltinCommonConversions"
+      },
+      {
+        "name": "BuiltinStringInstructions"
+      },
+      {
+        "name": "BuiltinMathematicalTools"
+      },
+      {
+        "name": "BuiltinExternalLayouts"
+      }
+    ],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "62.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "62.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "63.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "63.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "42.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "42.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "16.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "24.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "23.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "37.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "37.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "22.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "32.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "43.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "43.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "52.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "52.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "122.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "122.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "132.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "132.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "14.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "162.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "162.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "17.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "18.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "19.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "20.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "21.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "222.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "222.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "232.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "232.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "242.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "242.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "25.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "initial.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "initial.png",
+        "smoothed": true,
+        "userAdded": true
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [],
+  "objectsGroups": [],
+  "variables": [],
+  "layouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/historia1"
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [],
+  "externalLayouts": [],
+  "externalSourceFiles": []
+}
