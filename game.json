@@ -144,30 +144,12 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "62.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "62.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "1.png",
         "kind": "image",
         "metadata": "",
         "name": "1.png",
         "smoothed": true,
         "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "63.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "63.png",
-        "smoothed": true,
-        "userAdded": false
       },
       {
         "alwaysLoaded": false,
@@ -238,15 +220,6 @@
         "kind": "image",
         "metadata": "",
         "name": "22.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "32.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "32.png",
         "smoothed": true,
         "userAdded": true
       },
